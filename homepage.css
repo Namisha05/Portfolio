@@ -1,0 +1,121 @@
+body nav{
+    background-color: #f8f6ec;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.my{
+    background-color:#f8f6ec;
+    margin-top: 50px;
+    color: #306e5f;
+    border: #306e5f solid 1px;
+    border-width: 1px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.my:hover{
+    text-decoration:line-through;
+}
+.navbar a{
+    color:#306e5f;
+}
+.nav-item{
+    padding:10px;
+    padding-bottom: 2px;
+}
+.header{
+    background: #f8f6ec;
+    color:#306e5f;
+    font-family: 'Lucida Sans';
+    margin-left: 120px;
+    padding:50px;
+    -webkit-text-stroke-width: 1px;
+}
+.col-sm-8{
+    margin-top: 120px;
+}
+.header .col-sm-4{
+    margin-top: -30px;
+}
+
+.navbar-nav{
+    margin-right: 20px;
+    color:#BFD8B8;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.me{
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    border:#306e5f double 2px;
+}
+.hobbies{
+    background-color: #C9E4C5 ;
+    text-align: center;
+    border-radius: 40px;
+    border-radius: 0px;
+    padding:20px;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode';
+}
+.hobbies .col-sm-2{
+    padding: 20px;
+    padding-top: 2%;
+    background-color: #f8f6ec;
+    font-family: 'Lucida Sans Unicode';
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family:'Lucida Sans Regular';
+}
+#about{
+    font-family:'Lucida Sans Unicode';
+    font-weight: 10px;
+}
+.hobbies .col-sm-2{
+    color:#1c6b57;
+}
+.r2{
+    background-color: #f8f6ec;
+    color: #306e5f;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 0px;
+}
+.r3{
+    background-color: #f8f6ec;
+}
+.c3{
+    color: #175545;
+    padding: 50px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.c3 li{
+    text-align: left;
+    font-family:'Lucida Grande';
+}
+.c2{
+    background-color: #175545;
+    color: #f8f6ec;
+    font-family:'Lucida Grande';
+    border-style: solid;
+    margin: 10px;
+    border-width: 1px;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: #1c6b57;
+    height: 170px;
+}
+
+footer{
+    background-color:#306e5f;
+    height:100px;
+    padding:50px;
+    margin:0px;
+    text-align: center;
+    color: #f8f6ec;
+}
+footer a{
+    color:#f8f6ec;
+}

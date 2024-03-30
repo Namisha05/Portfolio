@@ -1,0 +1,47 @@
+body nav, .container-fluid header{
+    background-color: #f8f6ec;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.my{
+    background-color:#f8f6ec;
+    margin-top: 50px;
+    color: #306e5f;
+    border: #306e5f solid 1px;
+    border-width: 1px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.my:hover{
+    text-decoration:line-through;
+}
+.navbar a{
+    color:#306e5f;
+}
+.nav-item{
+    padding:10px;
+    padding-bottom: 2px;
+}
+.navbar-nav{
+    margin-right: 20px;
+    color:#BFD8B8;
+}
+h2{
+    font-family:'Lucida Grande';
+}
+input{
+    border-color: #306e5f;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+footer{
+    background-color:#306e5f;
+    height:100px;
+    padding:50px;
+    text-align: center;
+    color: #f8f6ec;
+}
+footer a{
+    color:#f8f6ec;
+}
